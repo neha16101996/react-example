@@ -1,0 +1,14 @@
+.new-expense {
+
+  display: flex;
+  width: 40%;
+  height: 100%;
+  text-align: center;
+  background-color: aqua;
+  border: 2px solid rgb(22, 148, 231);
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+  margin-left: 30%;
+}
+
